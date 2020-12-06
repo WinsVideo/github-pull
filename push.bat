@@ -1,2 +1,2 @@
 @echo off
-git pull main
+git pull https://github.com/WinsVideo/github-push
