@@ -1,2 +1,2 @@
 # github-pull
-pull stuff from github to winsvideo
+pull stuff from github to winsvideo.
