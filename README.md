@@ -1,5 +1,2 @@
-# github-push
-some test for winsvideo
-other thing
-e
-# I updated this
+# github-pull
+pull stuff from github to winsvideo
